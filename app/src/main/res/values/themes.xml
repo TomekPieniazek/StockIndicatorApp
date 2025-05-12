@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme -->
+    <style name="Theme.StockSignals" parent="Theme.Material3.Light">
+        <!-- No extra attributes needed -->
+    </style>
+</resources>
